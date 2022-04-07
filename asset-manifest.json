@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unit-4-all-masai/6-4-22-masai-first-react/static/css/main.677994d2.css",
+    "main.js": "/unit-4-all-masai/6-4-22-masai-first-react/static/js/main.cd2838d5.js",
+    "static/js/787.ffaa91cc.chunk.js": "/unit-4-all-masai/6-4-22-masai-first-react/static/js/787.ffaa91cc.chunk.js",
+    "index.html": "/unit-4-all-masai/6-4-22-masai-first-react/index.html",
+    "main.677994d2.css.map": "/unit-4-all-masai/6-4-22-masai-first-react/static/css/main.677994d2.css.map",
+    "main.cd2838d5.js.map": "/unit-4-all-masai/6-4-22-masai-first-react/static/js/main.cd2838d5.js.map",
+    "787.ffaa91cc.chunk.js.map": "/unit-4-all-masai/6-4-22-masai-first-react/static/js/787.ffaa91cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677994d2.css",
+    "static/js/main.cd2838d5.js"
+  ]
+}
